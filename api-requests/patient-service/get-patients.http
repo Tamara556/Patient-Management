@@ -1,0 +1,3 @@
+### GET requets to example server
+GET http://localhost:4000/patients
+###
